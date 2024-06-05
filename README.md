@@ -1,4 +1,4 @@
-## नमस्ते (Namaste), I am [Y Praveen Kumar]([https://maddhruv.dev/](https://ypraveenkumar-portfolio.netlify.app))
+## नमस्ते (Namaste), I am [Y Praveen Kumar](https://maddhruv.dev/](https://ypraveenkumar-portfolio.netlify.app)
 <!--
 **Praveen19102511/Praveen19102511** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
