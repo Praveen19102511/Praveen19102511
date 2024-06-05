@@ -56,6 +56,10 @@ I'm always excited to work on new projects and collaborate with like-minded indi
 Let's build something amazing together! 🎉
 </div>
 
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
  <a href="##" target="_blank" rel="noreferrer nofollow">
       <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="170" >
     </a>
